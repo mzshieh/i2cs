@@ -15,10 +15,6 @@ Harvard CS 50
 
 The notes will be updated during the semester.
 
-## Quiz
-
-There will be some quizzes which do not affect your score.
-
 ## Tutorial
 
 ### Python package installation

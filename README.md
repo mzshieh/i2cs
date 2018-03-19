@@ -1,7 +1,11 @@
 # NCTU Introduction to Computer Science
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: [曾香耘](mailto:silver9450.cs04@nctu.edu.tw)
++   Teaching Assistants: 
+[曾香耘](mailto:silver9450.cs04@nctu.edu.tw)
+[李家安](mailto:sz110010@gmail.com)
+[李雅涵](mailto:wsjyun749@gmail.com)
+[黃郁恬](mailto:10099candy@gmail.com)
 
 ## Course Objectives
 

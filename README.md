@@ -9,7 +9,8 @@
 
 ## Course Objectives
 
-Learn the fundamentals of computer science
++ Learn the fundamentals of computer science
++ Introduce Python programming language
 
 ## References
 

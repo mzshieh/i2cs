@@ -18,7 +18,7 @@ Harvard CS 50
 
 ## Lecture Notes
 
-The notes will be updated during the semester.
++ [第一講](https://hackmd.io/s/Syd9_6fcf)
 
 ## Tutorial
 

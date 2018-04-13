@@ -12,13 +12,10 @@
 + Learn the fundamentals of computer science
 + Introduce Python programming language
 
-## References
-
-Harvard CS 50
-
 ## Lecture Notes
 
 + [第一講](https://hackmd.io/s/Syd9_6fcf)
++ [第二講](https://hackmd.io/s/SJx7UFJjG)
 
 ## Tutorial
 

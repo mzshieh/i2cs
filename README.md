@@ -17,6 +17,7 @@
 + [第一講](https://hackmd.io/s/Syd9_6fcf)
 + [第二講](https://hackmd.io/s/SJx7UFJjG)
 + [第三講](https://hackmd.io/s/Hy3xLqtpf)
++ [第四講](https://hackmd.io/s/HkA7WnTAz)
 
 ## Tutorial
 

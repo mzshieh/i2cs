@@ -28,4 +28,4 @@
 
 ## Term Poject
 
-To be determined
+[Python 程式設計 Final Project](https://hackmd.io/s/SyQe1B-1Q)

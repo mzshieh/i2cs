@@ -19,6 +19,7 @@
 + [第三講](https://hackmd.io/s/Hy3xLqtpf)
 + [第四講](https://hackmd.io/s/HkA7WnTAz)
 + [第五講](https://hackmd.io/s/BJweD-JeQ)
++ [第六講](https://hackmd.io/s/ryAbnrZbm)
 
 ## Tutorial
 

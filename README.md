@@ -2,10 +2,10 @@
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
 +   Teaching Assistants: 
-[曾香耘](mailto:silver9450.cs04@nctu.edu.tw)
-[李家安](mailto:sz110010@gmail.com)
-[李雅涵](mailto:wsjyun749@gmail.com)
-[黃郁恬](mailto:10099candy@gmail.com)
+    + [曾香耘(在Facebook倫敦實習中，暑假期間請勿寄信)](mailto:silver9450.cs04@nctu.edu.tw)
+    + [李家安](mailto:sz110010@gmail.com)
+    + [李雅涵](mailto:wsjyun749@gmail.com)
+    + [黃郁恬](mailto:10099candy@gmail.com)
 
 ## Course Objectives
 
@@ -20,6 +20,8 @@
 + [第四講](https://hackmd.io/s/HkA7WnTAz)
 + [第五講](https://hackmd.io/s/BJweD-JeQ)
 + [第六講](https://hackmd.io/s/ryAbnrZbm)
+
++ [資料處理第一講](https://hackmd.io/s/SkX8D7J7X)
 
 ## Tutorial
 

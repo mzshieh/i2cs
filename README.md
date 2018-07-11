@@ -23,6 +23,7 @@
 
 + [資料處理第一講](https://hackmd.io/s/SkX8D7J7X)
 + [資料處理第二講](https://hackmd.io/s/ryA2yfWQX)
++ [資料處理第三講](https://hackmd.io/s/B1N6FtQmX)
 
 ## Tutorial
 
